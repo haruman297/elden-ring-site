@@ -1,0 +1,24 @@
+
+
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    color: gold;
+}
+
+p, li {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: lightblue;
+}
+
+img {
+    width: 300px;
+}
